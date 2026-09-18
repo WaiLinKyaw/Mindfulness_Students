@@ -1,0 +1,5 @@
+python-telegram-bot
+asyncpg
+apscheduler
+pytz
+python-dotenv
