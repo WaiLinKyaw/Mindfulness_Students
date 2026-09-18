@@ -1,1 +1,0 @@
-worker: python student_bot6.py
