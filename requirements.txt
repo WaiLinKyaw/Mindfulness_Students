@@ -1,7 +1,0 @@
-python-telegram-bot
-asyncpg
-apscheduler
-pytz
-python-dotenv
-google-genai
-tzdata
