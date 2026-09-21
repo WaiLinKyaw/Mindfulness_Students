@@ -1,1 +1,1 @@
-worker: python student_bot6.py
+worker: python student_bot7.py
